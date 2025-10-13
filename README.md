@@ -18,7 +18,7 @@ An educational walk-through of simple linear regression. This project re-creates
 
 ├─ Reggie_Linear_Regression.ipynb # main notebook (from-scratch + sklearn comparison).
 
-├─ data/ # (optional) sample CSV(s) if you add them later.
+├─ data/ # (optional) sample CSV(s) if you add them later on.
 
 ├─ imgs/ # (optional) saved plots.
 
