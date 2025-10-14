@@ -6,13 +6,13 @@ An educational walk-through of simple linear regression. This project re-creates
 
 ## 🚀 Highlights
 
-- From-scratch Ordinary Least Squares (OLS): `y = m*x + b`.
+- From-scratch Ordinary Least Squares (OLS): `y = m * x + b`.
 - Error functions and gradient descent training loop.
-- Side-by-side comparison with `sklearn.linear_model.LinearRegression`.
+- Side-by-side comparison with `sklearn.linear_model.Linear Regression`.
 - Clean, commented notebook for step-by-step learning.
 - Lightweight, no external data required (toy or generated data).
 
-> Reference: `scikit-learn`’s `LinearRegression` minimises residual sum of squares for OLS. See the official docs for API details.  
+> Reference: `scikit-learn`’s `Linear Regression` minimises residual sum of squares for OLS. See the official docs for API details.  
 
 ## 📁 Repository structure
 
