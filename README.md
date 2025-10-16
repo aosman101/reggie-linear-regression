@@ -7,11 +7,17 @@ An educational walk-through of simple linear regression. This project re-creates
 ## 🚀 Highlights
 
 ✅ From-scratch Ordinary Least Squares (OLS) model: y = m * x + b.
+
 ⚙️ Implementation of absolute and squared error functions.
+
 🔁 Gradient descent training loop for learning slope/intercept.
+
 🧠 Comparison with sklearn.linear_model.LinearRegression.
+
 🧾 Clean, commented notebook for step-by-step learning.
+
 💡 Lightweight — no external datasets required (uses generated data).
+
 📊 New: Companion notebook Linear-Regression-Plots.ipynb showcasing diverse Matplotlib plots for documentation or reporting.
 
 > Reference: `scikit-learn`’s `Linear Regression` minimises residual sum of squares for OLS. See the official docs for API details.  
