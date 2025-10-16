@@ -6,20 +6,25 @@ An educational walk-through of simple linear regression. This project re-creates
 
 ## 🚀 Highlights
 
-- From-scratch Ordinary Least Squares (OLS): `y = m * x + b`.
-- Error functions and gradient descent training loop.
-- Side-by-side comparison with `sklearn.linear_model.Linear Regression`.
-- Clean, commented notebook for step-by-step learning.
-- Lightweight, no external data required (toy or generated data).
+✅ From-scratch Ordinary Least Squares (OLS) model: y = m * x + b.
+⚙️ Implementation of absolute and squared error functions.
+🔁 Gradient descent training loop for learning slope/intercept.
+🧠 Comparison with sklearn.linear_model.LinearRegression.
+🧾 Clean, commented notebook for step-by-step learning.
+💡 Lightweight — no external datasets required (uses generated data).
+📊 New: Companion notebook Linear-Regression-Plots.ipynb showcasing diverse Matplotlib plots for documentation or reporting.
 
 > Reference: `scikit-learn`’s `Linear Regression` minimises residual sum of squares for OLS. See the official docs for API details.  
 
 ## 📁 Repository structure
 
-├─ Reggie_Linear_Regression.ipynb # main notebook (from-scratch + sklearn comparison).
+├─ Reggie_Linear_Regression.ipynb. # main notebook (from-scratch + sklearn comparison).
 
-├─ data/ # (optional) sample CSV(s) if you add them later on.
+├─ Linear-Regression-Plots.ipynb # 5 reusable Matplotlib plots (line, scatter, bar, box, heatmap).
 
-├─ imgs/ # (optional) saved plots.
+├─ data/ # (optional) sample CSVs if added later.
+
+├─ imgs/ # (optional) saved output plots.
 
 └─ README.md
+
